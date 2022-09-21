@@ -1,0 +1,10 @@
+table {
+    width: 100%;
+  }
+
+ .tablehead {
+  visibility: hidden;
+  width: 0;
+  padding: 0;
+  margin-bottom: 0px;
+ }
